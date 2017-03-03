@@ -35,4 +35,4 @@ For the compilation, you have to use the following string
 ```
 g++ -L/usr/local/lib -o <binary_name> <file_name.cpp> -lyaml-cpp
 ```
-
+Alternatively, you can compile without using th string `-L/usr/local/lib` by adding the path to the `LIBRARY_PATH` environment variable
