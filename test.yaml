@@ -1,0 +1,24 @@
+files:
+ - id: 1
+   name: filename1
+   content: S
+   par1: 1.0
+   par2: 1.5
+
+ - id: 2
+   name: filename2
+   content: S
+   par1: 2.0
+   par2: 2.5
+
+ - id: 3
+   name: filename3
+   content: B
+   par1: 1.6
+   par2: 1.7
+
+otherfile: 
+   name: filename4
+   content: B
+   par1: 1.88
+   par2: 1.99
